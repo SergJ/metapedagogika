@@ -1,0 +1,13 @@
+#nav ul li li:hover, #nav ul li li.hover {position: static;}
+div.search input.button {padding:8px; background : #644729; color:#fdecdc;}
+#header .moduletable {
+    float: right;
+    margin-left:0;
+    margin-top: 36px;
+}
+
+#col1 .search .inputbox { margin:0;padding:4px;}   
+.res {
+width:190px;
+    padding: 0 10px;
+}
